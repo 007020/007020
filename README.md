@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Juan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 
-<!--
-**007020/007020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 Juan Manuel Gaytán Guillén
 
-Here are some ideas to get you started:
+**Técnico en Programación**  
+Desarrollador de aplicaciones móviles y sitios web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Sobre mí
+
+Técnico en Programación con experiencia en el desarrollo de aplicaciones móviles multiplataforma utilizando **C# y .NET MAUI**, así como en la creación de sitios web con **PHP, HTML, CSS y JavaScript**. Manejo bases de datos locales y remotas (**SQLite y MySQL**), desarrollando proyectos con almacenamiento eficiente, interfaces intuitivas y lógica de negocio sólida.
+
+También tengo experiencia en **soporte técnico**, incluyendo diagnóstico de hardware y software, configuración de redes, atención al usuario y gestión de tickets. Me destaco por ser responsable, organizado y orientado a resultados.
+
+---
+
+## 💡 Habilidades Técnicas
+
+- C# y .NET MAUI
+- PHP, HTML5, CSS3, JavaScript
+- MySQL y SQLite
+- Visual Studio 2022
+- Soporte técnico (hardware, software, redes)
+- Metodologías ágiles: Scrum, Kanban
+
+---
+
+
+
+## 📫 Contacto
+
+- 📧 Email: gaytan.guillen07@gmail.com 
+- 📍 Ubicación: Aguascalientes, México
+
+---
+
+© 2025 Juan Manuel Gaytán Guillén – Portafolio Profesional
